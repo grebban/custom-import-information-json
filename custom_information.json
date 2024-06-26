@@ -1,0 +1,7 @@
+{
+    "customImportInformationItems": {
+        "@grebban/string-utils/extractQueryParams": {
+            "message": "Is now part of util-collection at https://www.npmjs.com/package/@grebban/utils"
+        }
+    }
+}
